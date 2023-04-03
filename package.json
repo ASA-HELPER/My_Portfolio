@@ -1,0 +1,19 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "Amandeep Singh Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Portfolio"
+  },
+  "keywords": [
+    "AmandeepSingh",
+    "Portflio"
+  ],
+  "author": "Amandeep Singh",
+  "license": "MIT"
+}
